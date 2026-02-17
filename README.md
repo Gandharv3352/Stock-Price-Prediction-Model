@@ -5,14 +5,14 @@
   Forecast Market Trends with Machine Learning
   <br />
   <br />
-  <a href="https://github.com/YOUR_USERNAME/Stock-Price-Prediction-Model"><strong>Explore the Repository »</strong></a>
+  <a href="https://github.com/Gandharv3352/Stock-Price-Prediction-Model"><strong>Explore the Repository »</strong></a>
   <br />
   <br />
   <a href="#downloads">Download Files</a>
   ·
   <a href="#getting-started">Run Locally</a>
   ·
-  <a href="https://github.com/YOUR_USERNAME/Stock-Price-Prediction-Model/issues">Report Bug</a>
+  <a href="https://github.com/Gandharv3352E/Stock-Price-Prediction-Model/issues">Report Bug</a>
 </p>
 </div>
 
