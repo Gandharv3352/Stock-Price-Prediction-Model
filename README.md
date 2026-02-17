@@ -129,11 +129,11 @@ Stock-Price-Prediction-Model/
 
 ## Downloads
 
-- 📓 **Jupyter Notebook (EDA + Model Training)**  
-  👉 [Download Titanic_Model.ipynb](https://github.com/Gandharv3352/Stock-Price-Prediction-Model/blob/main/Stock_Prediction.ipynb)
+- 📓 **Jupyter Notebook (Preprocessing + Model Training)**  
+  👉 [Download Stock_Prediction.ipynb](https://github.com/Gandharv3352/Stock-Price-Prediction-Model/blob/main/Stock_Prediction.ipynb)
 
 - 🧠 **Trained Model (`.pkl`)**  
-  👉 [Download titanic_pipeline.pkl](https://github.com/Gandharv3352/Stock-Price-Prediction-Model/blob/main/stock_model.pkl)
+  👉 [Download Prediction_Model.pkl](https://github.com/Gandharv3352/Stock-Price-Prediction-Model/blob/main/stock_model.pkl)
 
 > ⚠️ Ensure the same library versions are used when loading the pickle file.
 
