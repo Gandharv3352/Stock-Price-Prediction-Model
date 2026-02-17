@@ -12,7 +12,7 @@
   ·
   <a href="#getting-started">Run Locally</a>
   ·
-  <a href="https://github.com/Gandharv3352E/Stock-Price-Prediction-Model/issues">Report Bug</a>
+  <a href="https://github.com/Gandharv3352/Stock-Price-Prediction-Model/issues">Report Bug</a>
 </p>
 </div>
 
