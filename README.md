@@ -36,10 +36,6 @@
   </ol>
 </details>
 
-## ⚠️ Disclaimer
-
-This project is for educational purposes only and not financial advice.
-
 ---
 
 ## About The Project
@@ -184,6 +180,13 @@ Enter number of days to predict: 10
 * Output: Future price predictions & trend visualization
 
 ---
+
+## ⚠️ Disclaimer
+
+This project is for educational purposes only and not financial advice.
+
+---
+
 
 ## Popular Stock Symbols
 
